@@ -1,0 +1,1 @@
+4) There is a difference between the number of the GPIO and the number of the pin.
